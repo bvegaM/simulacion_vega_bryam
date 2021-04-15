@@ -1,7 +1,7 @@
 # Repositorio de la materia de Simulación
 <strong>Autor:</strong> Bryam David Vega Moreno
 
-Trabajos, pruebas y exámenes de la materia de simulación
+Este repositorio contiene trabajos, pruebas y exámenes de la materia de simulación
 
 
 
