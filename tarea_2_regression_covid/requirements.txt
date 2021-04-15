@@ -1,0 +1,14 @@
+altair>=4.1
+altair_saver
+argparse
+coloredlogs
+datetime
+Flask
+gunicorn
+joblib
+matplotlib
+numpy
+pandas
+scipy
+scikit-learn
+selenium
