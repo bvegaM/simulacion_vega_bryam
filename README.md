@@ -9,7 +9,7 @@ Este repositorio contiene trabajos, pruebas y exámenes de la materia de simulac
 
 <ul>
   <li>
-    <strong>Sección de tareas</strong>
+    <strong class="text-orange mb-2">Sección de tareas</strong>
     <ul>
       <li>
         <strong>Tarea 1. Lanzamiento de dados</strong>
