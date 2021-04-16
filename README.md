@@ -9,10 +9,10 @@ Este repositorio contiene trabajos, pruebas y exámenes de la materia de simulac
 
 <ul>
   <li>
-    <strong class="text-orange mb-2">Sección de tareas</strong>
+    <strong class="text-orange mb-2">Sección de tareas 📚</strong>
     <ul>
       <li>
-        <strong>Tarea 1. Lanzamiento de dados</strong>
+        <strong>Tarea 1. Lanzamiento de dados </strong>
         <ul>
           <li>Código:  <a href = "https://github.com/bvegaM/simulacion_vega_bryam/blob/master/tarea_1_dados_simulacion/">click aquí</a> </li>
            <li>Informe: <a href = "https://github.com/bvegaM/simulacion_vega_bryam/blob/master/tarea_1_dados_simulacion/informe.pdf">click aquí</a> </li> 
@@ -28,7 +28,7 @@ Este repositorio contiene trabajos, pruebas y exámenes de la materia de simulac
     </ul>
   </li>
   <li>
-    <strong>Sección de actividades en clase</strong>
+    <strong>Sección de actividades en clase 💻</strong>
     <ul>
       <li>
         <strong>Actividad 1. Juego de la vida</strong>
