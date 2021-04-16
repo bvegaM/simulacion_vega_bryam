@@ -27,4 +27,15 @@ Este repositorio contiene trabajos, pruebas y exámenes de la materia de simulac
       </li>
     </ul>
   </li>
+  <li>
+    <strong>Sección de actividades en clase</strong>
+    <ul>
+      <li>
+        <strong>Actividad 1. Juego de la vida</strong>
+        <ul>
+          <li>Informe: <a href = "https://github.com/bvegaM/simulacion_vega_bryam/blob/master/actividades_clase/actividad_1_juego_de_la_vida/informe.pdf">click aquí</a> </li> 
+        </ul>
+      </li>
+    </ul>
+  </li>
 </ul>
