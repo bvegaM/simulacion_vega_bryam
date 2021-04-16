@@ -9,7 +9,7 @@ Este repositorio contiene trabajos, pruebas y exámenes de la materia de simulac
 
 <ul>
   <li>
-    <strong class="text-orange mb-2">Sección de tareas 📚</strong>
+    <strong >Tareas 📚</strong>
     <ul>
       <li>
         <strong>Tarea 1. Lanzamiento de dados </strong>
@@ -28,7 +28,7 @@ Este repositorio contiene trabajos, pruebas y exámenes de la materia de simulac
     </ul>
   </li>
   <li>
-    <strong>Sección de actividades en clase 💻</strong>
+    <strong>Actividades en clase 💻</strong>
     <ul>
       <li>
         <strong>Actividad 1. Juego de la vida</strong>
