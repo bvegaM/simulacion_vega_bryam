@@ -25,6 +25,13 @@ Este repositorio contiene trabajos, pruebas y exámenes de la materia de simulac
            <li>Informe: <a href = "https://github.com/bvegaM/simulacion_vega_bryam/blob/master/tarea_2_regression_covid/informe.pdf">click aquí</a> </li> 
         </ul>
       </li>
+      <li>
+        <strong>Tarea 3. Modelo SIR</strong>
+        <ul>
+          <li>Código:  <a href = "https://github.com/bvegaM/simulacion_vega_bryam/blob/master/tarea_3_simulacion_sir/informe.ipynb">click aquí</a> </li>
+           <li>Informe: <a href = "https://github.com/bvegaM/simulacion_vega_bryam/blob/master/tarea_3_simulacion_sir/informe.pdf">click aquí</a> </li> 
+        </ul>
+      </li>
     </ul>
   </li>
   <li>
