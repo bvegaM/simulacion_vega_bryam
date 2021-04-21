@@ -9,10 +9,10 @@ Este repositorio contiene trabajos, pruebas y exámenes de la materia de simulac
 
 <ul>
   <li>
-    <strong>Sección de tareas</strong>
+    <strong >Tareas 📚</strong>
     <ul>
       <li>
-        <strong>Tarea 1. Lanzamiento de dados</strong>
+        <strong>Tarea 1. Lanzamiento de dados </strong>
         <ul>
           <li>Código:  <a href = "https://github.com/bvegaM/simulacion_vega_bryam/blob/master/tarea_1_dados_simulacion/">click aquí</a> </li>
            <li>Informe: <a href = "https://github.com/bvegaM/simulacion_vega_bryam/blob/master/tarea_1_dados_simulacion/informe.pdf">click aquí</a> </li> 
@@ -23,6 +23,17 @@ Este repositorio contiene trabajos, pruebas y exámenes de la materia de simulac
         <ul>
           <li>Código:  <a href = "https://github.com/bvegaM/simulacion_vega_bryam/tree/master/tarea_2_regression_covid">click aquí</a> </li>
            <li>Informe: <a href = "https://github.com/bvegaM/simulacion_vega_bryam/blob/master/tarea_2_regression_covid/informe.pdf">click aquí</a> </li> 
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>
+    <strong>Actividades en clase 💻</strong>
+    <ul>
+      <li>
+        <strong>Actividad 1. Juego de la vida</strong>
+        <ul>
+          <li>Informe: <a href = "https://github.com/bvegaM/simulacion_vega_bryam/blob/master/actividades_clase/actividad_1_juego_de_la_vida/informe.pdf">click aquí</a> </li> 
         </ul>
       </li>
     </ul>
