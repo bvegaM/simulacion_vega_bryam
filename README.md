@@ -50,6 +50,12 @@ Este repositorio contiene trabajos, pruebas y exámenes de la materia de simulac
           <li>Informe: <a href = "https://github.com/bvegaM/simulacion_vega_bryam/blob/master/actividades_clase/actividad_1_juego_de_la_vida/informe.pdf">click aquí</a> </li> 
         </ul>
       </li>
+      <li>
+        <strong>Actividad 2. Boletin 1 - Simulación tráfico vehicular y regresion PIB</strong>
+        <ul>
+          <li>Informe: <a href = "https://github.com/bvegaM/simulacion_vega_bryam/tree/master/actividades_clase/actividad_2_regresion_pib_simulacion_trafico/informes">click aquí</a> </li> 
+        </ul>
+      </li>
     </ul>
   </li>
 </ul>
