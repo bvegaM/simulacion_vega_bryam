@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.3' generator='SimTrafficTM'>
+<node id='2' lat='1.8835861322990697E-4' lon='6.538443738477977E-5' >
+<tag k='nombre' v='' />
+<tag k='entradasalida' v='0,0,0,,0,0,0' />
+</node>
+<node id='3' lat='2.0642827612360557E-4' lon='5.23075919805105E-4' >
+<tag k='entradasalida' v='0,0,0,,0,10,0' />
+</node>
+<node id='4' lat='-3.8987059936844805E-4' lon='7.884595157361287E-5' >
+<tag k='entradasalida' v='0,0,0,,0,0,0' />
+</node>
+<node id='5' lat='-3.8987059936844805E-4' lon='5.185887484088273E-4' >
+<tag k='nombre' v='' />
+<tag k='entradasalida' v='0,0,0,,0,0,0' />
+</node>
+<node id='6' lat='-2.4079588049543467E-4' lon='6.935884328636575E-4' >
+<tag k='entradasalida' v='0,0,0,,0,0,0' />
+</node>
+<node id='7' lat='-2.3176104904858538E-4' lon='-1.3205110405143893E-4' >
+<tag k='nombre' v='' />
+<tag k='entradasalida' v='0,0,0,,0,0,0' />
+</node>
+<node id='8' lat='1.6696815739770292E-5' lon='-1.2307676125888353E-4' >
+<tag k='entradasalida' v='0,0,0,,0,0,0' />
+</node>
+<node id='9' lat='2.121423146319494E-5' lon='6.980756042599352E-4' >
+<tag k='nombre' v='' />
+<tag k='entradasalida' v='0,0,0,,0,0,0' />
+</node>
+<node id='10' lat='-6.789852056676256E-4' lon='6.987160878105748E-5' >
+<tag k='entradasalida' v='0,0,0,,0,458,0' />
+</node>
+<node id='11' lat='-6.880200371144748E-4' lon='5.23075919805105E-4' >
+<tag k='entradasalida' v='0,544,0,,0,0,0' />
+</node>
+<node id='12' lat='-2.49830711942284E-4' lon='0.0010346134589807625' >
+<tag k='entradasalida' v='0,0,0,,0,95,0' />
+</node>
+<node id='13' lat='2.573164718661959E-5' lon='0.0010211519447919295' >
+<tag k='entradasalida' v='0,641,0,,0,0,0' />
+</node>
+<node id='14' lat='3.928389435689354E-5' lon='-4.506402731871555E-4' >
+<tag k='entradasalida' v='0,0,0,,0,857,0' />
+</node>
+<node id='15' lat='-2.4079588049543467E-4' lon='-4.5512744458343316E-4' >
+<tag k='entradasalida' v='0,74,0,,0,0,0' />
+</node>
+<node id='16' lat='5.136668326347508E-4' lon='7.884599005448533E-5' >
+<tag k='entradasalida' v='0,193,0,,0,0,0' />
+</node>
+<node id='17' lat='5.18184246808642E-4' lon='5.230761106702323E-4' >
+<tag k='entradasalida' v='0,0,0,,0,32,0' />
+</node>
+<segment id='2' from='2' to='8'>
+<tag k='nCarrilesIda' v='2' />
+<tag k='nCarrilesVuelta' v='0' />
+<tag k='velMax' v='60.0' />
+</segment>
+<segment id='3' from='8' to='7'>
+<tag k='nCarrilesIda' v='2' />
+<tag k='nCarrilesVuelta' v='0' />
+<tag k='velMax' v='60.0' />
+</segment>
+<segment id='4' from='7' to='4'>
+<tag k='nCarrilesIda' v='2' />
+<tag k='nCarrilesVuelta' v='0' />
+<tag k='velMax' v='60.0' />
+</segment>
+<segment id='5' from='4' to='5'>
+<tag k='nCarrilesIda' v='2' />
+<tag k='nCarrilesVuelta' v='0' />
+<tag k='velMax' v='60.0' />
+</segment>
+<segment id='6' from='5' to='6'>
+<tag k='nCarrilesIda' v='2' />
+<tag k='nCarrilesVuelta' v='0' />
+<tag k='velMax' v='60.0' />
+</segment>
+<segment id='7' from='6' to='9'>
+<tag k='nCarrilesIda' v='2' />
+<tag k='nCarrilesVuelta' v='0' />
+<tag k='velMax' v='60.0' />
+</segment>
+<segment id='8' from='9' to='3'>
+<tag k='nCarrilesIda' v='2' />
+<tag k='nCarrilesVuelta' v='0' />
+<tag k='velMax' v='60.0' />
+</segment>
+<segment id='9' from='3' to='2'>
+<tag k='nCarrilesIda' v='2' />
+<tag k='nCarrilesVuelta' v='0' />
+<tag k='velMax' v='60.0' />
+</segment>
+<segment id='10' from='16' to='2'>
+<tag k='nCarrilesIda' v='2' />
+<tag k='nCarrilesVuelta' v='0' />
+<tag k='velMax' v='60.0' />
+</segment>
+<segment id='11' from='4' to='10'>
+<tag k='nCarrilesIda' v='2' />
+<tag k='nCarrilesVuelta' v='0' />
+<tag k='velMax' v='60.0' />
+</segment>
+<segment id='12' from='8' to='14'>
+<tag k='nCarrilesIda' v='2' />
+<tag k='nCarrilesVuelta' v='0' />
+<tag k='velMax' v='60.0' />
+</segment>
+<segment id='13' from='13' to='9'>
+<tag k='nCarrilesIda' v='2' />
+<tag k='nCarrilesVuelta' v='0' />
+<tag k='velMax' v='60.0' />
+</segment>
+<segment id='14' from='15' to='7'>
+<tag k='nCarrilesIda' v='2' />
+<tag k='nCarrilesVuelta' v='0' />
+<tag k='velMax' v='60.0' />
+</segment>
+<segment id='15' from='6' to='12'>
+<tag k='nCarrilesIda' v='2' />
+<tag k='nCarrilesVuelta' v='0' />
+<tag k='velMax' v='60.0' />
+</segment>
+<segment id='16' from='11' to='5'>
+<tag k='nCarrilesIda' v='2' />
+<tag k='nCarrilesVuelta' v='0' />
+<tag k='velMax' v='60.0' />
+</segment>
+<segment id='17' from='3' to='17'>
+<tag k='nCarrilesIda' v='2' />
+<tag k='nCarrilesVuelta' v='0' />
+<tag k='velMax' v='60.0' />
+</segment>
+</osm>
