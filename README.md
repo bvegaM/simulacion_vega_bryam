@@ -46,6 +46,13 @@ Este repositorio contiene trabajos, pruebas y exámenes de la materia de simulac
            <li>Informe: <a href = "https://github.com/bvegaM/simulacion_vega_bryam/blob/master/tarea_5_fifa_papermill/informe.pdf">click aquí</a> </li> 
         </ul>
       </li>
+      <li>
+        <strong>Tarea 6. Simulación car wash</strong>
+        <ul>
+          <li>Código:  <a href = "https://github.com/bvegaM/simulacion_vega_bryam/blob/master/tarea_6_simulacion_car_wash/informe.ipynb">click aquí</a> </li>
+           <li>Informe: <a href = "https://github.com/bvegaM/simulacion_vega_bryam/blob/master/tarea_6_simulacion_car_wash/informe%20.pdf">click aquí</a> </li> 
+        </ul>
+      </li>
     </ul>
   </li>
   <li>
