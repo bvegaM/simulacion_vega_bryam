@@ -84,4 +84,16 @@ Este repositorio contiene trabajos, pruebas y exámenes de la materia de simulac
       </li>
     </ul>
   </li>
+  <li>
+    <strong>Examenes 📈📉</strong>
+    <ul>
+      <li>
+        <strong>Examen - primer interciclo</strong>
+        <ul>
+          <li>Código:  <a href = "https://github.com/bvegaM/simulacion_vega_bryam/blob/master/examenes/primer_interciclo/informe.ipynb">click aquí</a> </li>
+          <li>Informe: <a href = "https://github.com/bvegaM/simulacion_vega_bryam/blob/master/examenes/primer_interciclo/informe.pdf">click aquí</a> </li> 
+        </ul>
+      </li>
+    </ul>
+  </li>
 </ul>
