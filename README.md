@@ -53,6 +53,13 @@ Este repositorio contiene trabajos, pruebas y exámenes de la materia de simulac
            <li>Informe: <a href = "https://github.com/bvegaM/simulacion_vega_bryam/blob/master/tarea_6_simulacion_car_wash/informe%20.pdf">click aquí</a> </li> 
         </ul>
       </li>
+      <li>
+        <strong>Tarea 6. Simulación de proceso de vacunacion Ecuador</strong>
+        <ul>
+          <li>Código:  <a href = "https://github.com/bvegaM/simulacion_vega_bryam/blob/master/tarea_7_simulacion_proceso_vacunacion/informe.ipynb">click aquí</a> </li>
+           <li>Informe: <a href = "https://github.com/bvegaM/simulacion_vega_bryam/blob/master/tarea_7_simulacion_proceso_vacunacion/informe.pdf">click aquí</a> </li> 
+        </ul>
+      </li>
     </ul>
   </li>
   <li>
