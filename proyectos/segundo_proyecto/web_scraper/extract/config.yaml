@@ -1,0 +1,37 @@
+sites:
+  elseiver:
+    url: https://www.elsevier.es/es
+    scroll_url: ''
+    next_page: 'https://www.elsevier.es/es-buscar-{}'
+    queries:
+      max_find:         20
+      sleep:            0
+      article_search:   'txtBuscador'
+      searcher:         'covid'
+      article_struct:   'item-preview'
+      article_link:     'a'
+      article_abstract: '.elsevierItemResumenPalabrasResumenTexto p'
+  bmc:
+    url: https://www.biomedcentral.com/
+    scroll_url: 'u-mr-24'
+    next_page: 'https://www.biomedcentral.com/search?searchType=publisherSearch&sort=Relevance&query=covid&page={}' # cambiar el query por el valor de searcher
+    queries:
+      max_find:         20
+      sleep:            0
+      article_search:   'query'
+      searcher:         'covid'
+      article_struct:   'c-listing'
+      article_link:     'a'
+      article_abstract: '.c-article-section__content p'
+  plos:
+    url: https://journals.plos.org/plospathogens/
+    scroll_url: ''
+    next_page: 'https://journals.plos.org/plospathogens/search?filterJournals=PLoSPathogens&q=covid&page={}' # cambiar el q por el valor de searcher
+    queries:
+      max_find:         9
+      sleep:            1
+      article_search:   'q'
+      searcher:         'covid'
+      article_struct:   'search-results-title'
+      article_link:     'a'
+      article_abstract: '.abstract-content p'
